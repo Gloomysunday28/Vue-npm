@@ -1,0 +1,8 @@
+用nodejs安装Vue
+npm install vue;
+npm install --global vue-cli
+vue init webpack my-project
+cd my-project;
+npm install phantomjs-prebuilt@2.1.14 --ignore-scripts;
+npm install;
+npm run dev;
